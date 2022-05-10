@@ -1,4 +1,4 @@
-# Capstone-project
+# CAPSTONE-PROJECT
 ***BACKGROUND***
 Most schools, especially day schools, face the challenge of students skiving lessons. Once they have been registered present in the morning, they escape school. Should anything bad happen to such a student outside school while the record states that the student was present in school, could reflect badly on the teacher. Therefore, as a day school teacher I chose this project to help reduce or manage this problem. The project involves creating a face detection APP that automatically detects students present in class and automatically records the attendance. The data is taken live by using a camera in class and can be done at any time of the day as many times as possible. 
 
@@ -9,7 +9,7 @@ This project can later be used to scan students in an entire school and send mes
 ****FACIAL RECOGNITION****
 A facial recognition system is a technology capable of matching a human face from a digital image or a video frame against a database of faces, typically employed to authenticate users through ID verification services, works by pinpointing and measuring facial features from a given image.(according to wikipedia).It is built using dlib’s state-of-the-art face recognition, built with deep learning. The model has an accuracy of 99.38% on the
 Labeled Faces in the Wild benchmark.
-# how it works.
+**how it works**
 when one gives a picture of a user to record his/her "facial identity".
 A first model will dig up whether there is a face or not and determine its location on the photo.
 A second model will calculate the facial parameters. (distance between the eyes, shape of the chin,…)
