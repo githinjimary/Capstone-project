@@ -3,7 +3,7 @@
 Most schools, especially day schools, face the challenge of students skiving lessons. Once they have been registered present in the morning, they escape school. Should anything bad happen to such a student outside school while the record states that the student was present in school, could reflect badly on the teacher. Therefore, as a day school teacher I chose this project to help reduce or manage this problem. The project involves creating a face detection APP that automatically detects students present in class and automatically records the attendance. The data is taken live by using a camera in class and can be done at any time of the day as many times as possible. 
 
 ***WORKING***
-The project involves creating a GUI that detects faces of students and registers their attendance in a csv file. Students from one class will be registered in the system by scanning their faces and registers them as present or absent.This information is saved as a csv file and sent to the respective classteachers through mail,the data is then stored in a database. 
+The project involves train a face recognition model that detects faces of students and registers their attendance in a csv file. Students from one class will be registered in the system by scanning their faces and registers them as present or absent.This information is saved as a csv file and sent to the respective classteachers through mail,the data is then stored in a database. 
 This project can later be used to scan students in an entire school and send messages to the respective class teachers and parents when their student was absent.
 
 ****FACIAL RECOGNITION****
@@ -37,7 +37,7 @@ A real time attendance was taken on thursday 5th of May and it worked well.
     • Aging: With increasing age, the human face features shape, lines, texture changes which are yet another challenge. 
     
  ***CONCLUSION***
-Most schools use finger print to keep record of students in school.Due to covid restrictions, this is nolonger the best way to take record. Since the finger print record is taken at specific time of the day and not automatically, it does not play a very good role at monitoring students lesson attendance in school.
+Facial attendance has proven to have more advantages especially in maintaining discipline in a school than any other form of monitoring attendance. This project can also be used to monitor attendance of teachers or genereal workers.
 
  
  
