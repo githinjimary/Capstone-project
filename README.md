@@ -30,7 +30,7 @@ A real time attendance was taken on thursday 5th of May and it worked well.
     • To enhance discipline through constant monitoring. 
 
 ***CHALLENGES***
-    •Illumination: It changes the face appearance drastically, it is observed that the slight changes in lighting conditions cause a significant impact on its results.
+    •Illumination:  It changes the face appearance drastically, it is observed that the slight changes in lighting conditions cause a significant impact on its results.
     • Pose: Facial Recognition systems are highly sensitive to the pose, Which may result in faulty recognition or no recognition if the database is only trained on frontal face view.
     • Facial Expressions: Different expressions of the same individual are another significant factor that needs to be taken into account. Modern Recognizers can easily deal with it though.
     • Low Resolution: Training of recognizer must be done on a good resolution picture, otherwise the model will fail to extract features.
